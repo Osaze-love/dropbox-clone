@@ -34,14 +34,6 @@ export default function Home() {
           </video>
         </div>
       </div>
-
-      <p className=" text-center font-bold text-xl pt-5">Disclaimer</p>
-      <p className="mx-10">
-        This is made for purely practice purpose.I do not ownn or affiliate with
-        Dropbox or/and any of its subsidiaries in any form, Copyright Disclaimer
-        under section 107 of the Copyright Act 1976, allowance is made for "fair
-        use"
-      </p>
     </main>
   );
 }
